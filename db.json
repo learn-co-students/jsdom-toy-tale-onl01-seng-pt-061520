@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Jade",
+      "image": "ddd",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Woody 2",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmypostercollection.com%2Fwp-content%2Fuploads%2F2019%2F07%2Fwoody-1.jpg&f=1&nofb=1",
+      "likes": 0,
+      "id": 10
     }
   ]
 }
