@@ -84,7 +84,7 @@ document.addEventListener("DOMContentLoaded", () => {
         .catch(function(error) {
           console.log(error.message)
         })
-    }
+    } 
 
     function updateLikes(e) {
       more = parseInt(e.target.previousElementSibling.innerText) + 1
